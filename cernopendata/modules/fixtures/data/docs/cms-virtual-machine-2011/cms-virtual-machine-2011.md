@@ -17,7 +17,7 @@ Note: the latest tested version of VirtualBox working with this CMS-specific Cer
 
 ### Step 2: Downloading and Creating a Virtual Machine
 
-**Important**: Before you download the CernVM, note that the imported settings may not always work on your host machine. Please see [Issues and Limitations][issues] if you encounter any problems with booting the VM.
+**Important**: Before you download the CernVM, note that the imported settings may not always work on your host machine. Please see [Issues and Limitations](#issue) if you encounter any problems with booting the VM.
 
 Next download the CMS-specific CernVM image as OVA file from: [CMS VM Image for 2011 CMS open data][cmsvmimage2011].
 
@@ -169,6 +169,5 @@ Question: Resizing the VM window doesn't resize its contents.
 
 [installVB]: <https://www.virtualbox.org/wiki/Downloads>
 [installVB2]: <https://www.virtualbox.org/wiki/Download_Old_Builds>
-[issues]: </VM/CMS#issues>
 [cmsvmimage2011]: </record/252>
 [getstartedcms]: </docs/cms-getting-started-2011>
